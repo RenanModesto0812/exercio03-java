@@ -2,9 +2,9 @@ import java.util.Scanner;
 
 public class exercicio03 {
     public static void main(String[] args) {
-        Double dolar = 5.20;
-        Double libra = 7.01;
-        Double euro = 5.99;
+        double dolar = 5.20;
+        double libra = 7.01;
+        double euro = 5.99;
         Scanner sc = new Scanner(System.in);
         System.out.println("__________________COMEÇO  DA CONVERSÃO__________________");
         System.out.println("Pra qual moeda vc deseja converter?");
